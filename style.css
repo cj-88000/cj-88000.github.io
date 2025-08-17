@@ -1,15 +1,6 @@
-@font-face {
-  font-family: "DOS"; 
-  src: url('fonts/Px437_DOS-V_re_ANK24.woff2') format('woff2');
-}
-
 body {
   background-color: #183B4E;
   color: black;
-  font-family: "DOS", "Courier New", Courier, monospace;
-  font-smooth: never;
-  -webkit-font-smoothing: none;
-  -moz-font-smoothing: greyscale;
 }
 
 a {
@@ -75,5 +66,6 @@ color pallet
 #D1D1D1
 
 #06908F
+
 
 
